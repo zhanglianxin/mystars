@@ -1,6 +1,6 @@
 # mystars
 
-> Organize my starred repos.
+> What repositories I star stands for what I focus on.
 >
 > ```javascript
 > (() => {
